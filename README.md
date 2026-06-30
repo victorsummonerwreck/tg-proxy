@@ -1,2 +1,0 @@
-# tg-proxy
-tg proxy
